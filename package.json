@@ -1,0 +1,23 @@
+{
+  "name": "notes-express",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Michi0808/notes-express#readme",
+  "bugs": {
+    "url": "https://github.com/Michi0808/notes-express/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Michi0808/notes-express.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
